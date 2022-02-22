@@ -1,0 +1,44 @@
+[
+	{
+		"key": "AL",
+		"latitude": -9.39,
+		"longitude": -35.44,
+		"name": "Alagoas"
+	},
+	{
+		"key": "BA",
+		"latitude": -12.24,
+		"longitude": -41.60,
+		"name": "Bahia"
+	},
+	{
+		"key": "CE",
+		"latitude": -5.19,
+		"longitude": -39.29,
+		"name": "Ceará"
+	},
+	{
+		"key": "GO",
+		"latitude": -15.92,
+		"longitude": -49.61,
+		"name": "Goiás"
+	},
+	{
+		"key": "MG",
+		"latitude": -18.76,
+		"longitude": -44.40,
+		"name": "Minas Gerais"
+	},
+  	{
+		"key": "SE",
+		"latitude": -10.54,
+		"longitude": -37.04,
+		"name": "Sergipe"
+	},
+	{
+		"key": "RJ",
+		"latitude": -22.54,
+		"longitude": -43.12,
+		"name": "Rio de Janeiro"
+	},
+]
